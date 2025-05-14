@@ -13,7 +13,7 @@ title                    : "Research profile: Nicolo Cogno"
 title_separator          : "-"
 name                     : &name "Nicolo Cogno"
 description              : &description "Research profile of Nicolò Cogno, Postdoctoral Research Fellow at MGH/Harvard, focusing on computational radiation biophysics."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://nicogno.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nicogno/nicogno.github.io"
 
