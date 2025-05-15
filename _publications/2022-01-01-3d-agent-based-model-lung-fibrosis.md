@@ -1,6 +1,7 @@
 ---
 title: "A 3D Agent-Based Model of Lung Fibrosis"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-3d-agent-based-model-lung-fibrosis
 excerpt: 'A 3D Agent-Based Model of Lung Fibrosis'
 date: 2022-01-01
