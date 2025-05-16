@@ -1,6 +1,7 @@
 ---
 title: "Mechanistic model of radiotherapy-induced lung fibrosis using coupled 3D Agent-Based and Monte Carlo simulations"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-02-01-mechanistic-model-radiotherapy-induced-lung-fibrosis
 excerpt: 'Mechanistic model of radiotherapy-induced lung fibrosis using coupled 3D Agent-Based and Monte Carlo simulations'
 date: 2024-02-01

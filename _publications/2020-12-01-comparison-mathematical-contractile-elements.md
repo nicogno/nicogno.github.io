@@ -1,6 +1,7 @@
 ---
 title: "The Comparison Between Two Mathematical Contractile Elements Integrated into an hiPSC-CM In-silico Model"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-12-01-comparison-mathematical-contractile-elements
 excerpt: 'The Comparison Between Two Mathematical Contractile Elements Integrated into an hiPSC-CM In-silico Model'
 date: 2020-12-01

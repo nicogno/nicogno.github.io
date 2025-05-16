@@ -1,6 +1,7 @@
 ---
 title: "An Agent-Based Model of Radiation-Induced Lung Fibrosis"
-collection: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2022-11-01-agent-based-model-radiation-induced-lung-fibrosis
 excerpt: 'An Agent-Based Model of Radiation-Induced Lung Fibrosis'
 date: 2022-11-01

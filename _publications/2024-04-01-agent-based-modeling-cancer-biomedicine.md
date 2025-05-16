@@ -1,6 +1,7 @@
 ---
 title: "Agent-based modeling in cancer biomedicine: applications and tools for calibration and validation"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-04-01-agent-based-modeling-cancer-biomedicine
 excerpt: 'Agent-based modeling in cancer biomedicine: applications and tools for calibration and validation'
 date: 2024-04-01
